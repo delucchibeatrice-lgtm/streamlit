@@ -1,3 +1,4 @@
+
 movieId,title,genres,year
 1,Toy Story,Adventure|Animation|Children|Comedy|Fantasy,1995
 2,Jumanji,Adventure|Children|Fantasy,1995
@@ -8465,7 +8466,7 @@ movieId,title,genres,year
 112497,Tammy,Comedy,2014
 112512,Colourful (Karafuru),Animation|Drama|Fantasy|Mystery,2010
 112515,"Babadook, The",Drama|Horror|Thriller,2014
-112552,Whiplash,Drama,2014
+112552,Whiplash,Drama|Music,2014
 112556,Gone Girl,Drama|Thriller,2014
 112580,"Angriest Man in Brooklyn, The",Comedy|Drama,2014
 112623,Dawn of the Planet of the Apes,Sci-Fi,2014
@@ -8516,7 +8517,7 @@ movieId,title,genres,year
 114184,Camp X-Ray,Drama,2014
 114246,"Walk Among the Tombstones, A",Action|Crime|Mystery|Thriller,2014
 114265,Laggies,Comedy|Romance,2014
-114335,La cravate,(no genres listed),1957
+114335,La cravate,Documentary,1957
 114396,Cesar Chavez,Drama,2014
 114494,Who Am I (Kein System Ist Sicher),Thriller,2014
 114554,"Tale of Princess Kaguya, The (Kaguyahime no monogatari)",Animation|Drama|Fantasy,2013
@@ -8683,10 +8684,10 @@ movieId,title,genres,year
 122882,Mad Max: Fury Road,Action|Adventure|Sci-Fi|Thriller,2015
 122884,Insidious: Chapter 3,Fantasy|Horror|Thriller,2015
 122886,Star Wars: Episode VII - The Force Awakens,Action|Adventure|Fantasy|Sci-Fi|IMAX,2015
-122888,Ben-hur,(no genres listed),2016
+122888,Ben-hur,Adventure|Drama,2016
 122890,Warcraft,Action|Adventure|Fantasy,2016
 122892,Avengers: Age of Ultron,Action|Adventure|Sci-Fi,2015
-122896,Pirates of the Caribbean: Dead Men Tell No Tales,(no genres listed),2017
+122896,Pirates of the Caribbean: Dead Men Tell No Tales,Action|Adventure|Fantasy,2017
 122898,Justice League,Action|Adventure|Sci-Fi,2017
 122900,Ant-Man,Action|Adventure|Sci-Fi,2015
 122902,Fantastic Four,Action|Adventure|Fantasy|Sci-Fi,2015
@@ -8781,7 +8782,7 @@ movieId,title,genres,year
 128991,Johnny Express,Animation|Comedy|Sci-Fi,2014
 129011,Eddie Izzard: Glorious,Comedy,1997
 129229,Northmen - A Viking Saga,Action|Adventure,2014
-129250,Superfast!,(no genres listed),2015
+129250,Superfast!,Comedy,2015
 129313,Reality,Comedy,2014
 129333,Julia,Horror|Thriller,2014
 129354,Focus,Comedy|Crime|Drama|Romance,2015
@@ -8835,7 +8836,7 @@ movieId,title,genres,year
 131920,The Road Within,Comedy|Drama,2014
 131934,The Malibu Bikini Shop,Comedy,1986
 132046,Tomorrowland,Action|Adventure|Children|Mystery|Sci-Fi,2015
-132084,Let It Be Me,(no genres listed),1995
+132084,Let It Be Me,Drama|Romance,1995
 132153,Buzzard,Comedy|Drama|Horror,2015
 132157,Paul Blart: Mall Cop 2,Action|Comedy|Crime,2015
 132333,Seve,Documentary|Drama,2014
@@ -8901,7 +8902,7 @@ movieId,title,genres,year
 134849,Duck Amuck,Animation|Children|Comedy,1953
 134853,Inside Out,Adventure|Animation|Children|Comedy|Drama|Fantasy,2015
 134859,The Wolfpack,Documentary,2015
-134861,Trevor Noah: African American,(no genres listed),2013
+134861,Trevor Noah: African American,Comedy,2013
 134881,Love & Mercy,Drama,2014
 135133,The Hunger Games: Mockingjay - Part 2,Adventure|Sci-Fi,2015
 135137,Pixels,Action|Comedy|Sci-Fi,2015
@@ -9032,7 +9033,7 @@ movieId,title,genres,year
 140928,Joy,Comedy|Drama,2015
 140956,Ready Player One,Action|Sci-Fi|Thriller,2018
 141004,Victor Frankenstein,Drama|Horror|Sci-Fi,2015
-141131,Guardians,(no genres listed),2016
+141131,Guardians,Action|Adventure|Sci-Fi,2016
 141400,Invincible Shaolin,Action,1978
 141408,Scouts Guide to the Zombie Apocalypse,Action|Comedy|Horror,2015
 141422,Suffragette,Drama,2015
@@ -9052,7 +9053,7 @@ movieId,title,genres,year
 141836,It Can't Be!,Comedy,1975
 141844,12 Chairs,Adventure|Comedy,1971
 141846,Steve Jobs: The Man in the Machine,Documentary,2015
-141866,Green Room,(no genres listed),2015
+141866,Green Room,Crime|Horror|Thriller,2015
 141890,Beasts of No Nation,Drama|War,2015
 141928,Bloodsucking Bastards,Comedy|Horror,2015
 141994,Saving Christmas,Children|Comedy,2014
@@ -9069,7 +9070,7 @@ movieId,title,genres,year
 142424,Into the Forest,Drama|Sci-Fi,2015
 142444,The Editor,Comedy|Horror|Mystery,2015
 142448,Everest,Adventure|Drama|Thriller,2015
-142456,The Brand New Testament,(no genres listed),2015
+142456,The Brand New Testament,Comedy|Fantasy,2015
 142488,Spotlight,Thriller,2015
 142507,Pawn Sacrifice,Drama,2015
 142509,Hardcore Henry,Action|Adventure|Sci-Fi,2015
@@ -9090,7 +9091,7 @@ movieId,title,genres,year
 143365,The Circle,Drama|Sci-Fi|Thriller,2016
 143367,Silence,Drama|Thriller,2016
 143385,Bridge of Spies,Drama|Thriller,2015
-143410,Hyena Road,(no genres listed),2015
+143410,Hyena Road,Drama|War,2015
 143458,The Great Hypnotist,Drama|Mystery|Thriller,2014
 143472,Into the Grizzly Maze,Action|Horror|Thriller,2015
 143511,Human,Documentary,2015
@@ -9137,7 +9138,7 @@ movieId,title,genres,year
 147002,Eros,Drama|Romance,2004
 147142,Those Happy Days,Children|Comedy,2006
 147196,The Girls,Comedy|Romance,1961
-147250,The Adventures of Sherlock Holmes and Doctor Watson,(no genres listed),1980
+147250,The Adventures of Sherlock Holmes and Doctor Watson,Mystery|Crime,1980
 147282,What Men Still Talk About,Comedy,2011
 147286,The Adventures of Sherlock Holmes and Doctor Watson: The Treasures of Agra,Crime|Mystery,1983
 147300,Adventures Of Sherlock Holmes And Dr. Watson: The Twentieth Century Approaches,Crime|Mystery,1986
@@ -9177,7 +9178,7 @@ movieId,title,genres,year
 149011,He Never Died,Comedy|Drama|Horror,2015
 149144,Parasyte: Part 1,Horror|Sci-Fi,2014
 149146,Parasyte: Part 2,Horror|Sci-Fi,2015
-149330,A Cosmic Christmas,(no genres listed),1977
+149330,A Cosmic Christmas,Animation|Children,1977
 149334,Nocturnal Animals,Drama|Thriller,2016
 149350,Lumberjack Man,Comedy|Horror,2015
 149352,Daddy's Home,Comedy,2015
@@ -9216,7 +9217,7 @@ movieId,title,genres,year
 151769,Three from Prostokvashino,Animation,1978
 151777,The Finest Hours,Drama|Thriller,2016
 151781,Ghost in the Shell: Solid State Society,Action|Animation|Crime|Sci-Fi|Thriller,2006
-152037,Grease Live,(no genres listed),2016
+152037,Grease Live,Musical,2016
 152063,Gods of Egypt,Adventure|Fantasy,2016
 152065,Embrace of the Serpent,Adventure|Drama,2016
 152071,Race,Drama,2016
@@ -9247,7 +9248,7 @@ movieId,title,genres,year
 155288,Eye in the Sky,Drama|Thriller|War,2016
 155358,Camino,Action|Adventure|Thriller,2016
 155509,Mr. Right,Action|Comedy|Romance,2016
-155589,Noin 7 veljestä,(no genres listed),1968
+155589,Noin 7 veljestä,Drama,1968
 155659,Florence Foster Jenkins,Comedy|Drama,2016
 155743,My Big Fat Greek Wedding 2,Comedy,2016
 155774,Neon Bull,Adventure,2015
@@ -9258,7 +9259,7 @@ movieId,title,genres,year
 156371,Everybody Wants Some,Comedy,2016
 156387,Sing Street,Drama,2016
 156553,Zoom,Animation|Comedy|Drama,2015
-156605,Paterson,(no genres listed),2016
+156605,Paterson,Drama,2016
 156607,The Huntsman Winter's War,Action|Adventure|Drama|Fantasy,2016
 156609,Neighbors 2: Sorority Rising,Comedy,2016
 156675,Project X,Mystery|Sci-Fi,1968
@@ -9306,7 +9307,7 @@ movieId,title,genres,year
 159069,Comedy of the Strict Regime,Comedy,1993
 159077,The Meddler,Comedy|Drama,2016
 159093,Now You See Me 2,Action|Comedy|Thriller,2016
-159161,Ali Wong: Baby Cobra,(no genres listed),2016
+159161,Ali Wong: Baby Cobra,Comedy,2016
 159193,Café Society,Comedy|Drama|Romance,2016
 159403,Neo Tokyo,Adventure|Animation|Fantasy|Horror|Sci-Fi,1987
 159415,Swiss Army Man,Comedy|Drama|Romance,2016
@@ -9315,7 +9316,7 @@ movieId,title,genres,year
 159690,Teenage Mutant Ninja Turtles: Out of the Shadows,Action|Adventure|Comedy,2016
 159717,The Fundamentals of Caring,Drama,2016
 159755,Popstar: Never Stop Never Stopping,Comedy,2016
-159779,A Midsummer Night's Dream,(no genres listed),2016
+159779,A Midsummer Night's Dream,Comedy|Fantasy,2016
 159811,The Bremen Town Musicians,Animation|Drama|Fantasy,1969
 159817,Planet Earth,Documentary,2006
 159849,Bo Burnham: Make Happy,Comedy,2016
@@ -9347,7 +9348,7 @@ movieId,title,genres,year
 160954,Nerve,Drama|Thriller,2016
 160978,Hellevator,Horror|Sci-Fi,2004
 160980,Sully,Drama,2016
-161008,The Forbidden Dance,(no genres listed),1990
+161008,The Forbidden Dance,Drama,1990
 161024,Jim Jefferies: Freedumb,Comedy,2016
 161032,The Grandmother,Action|Drama,1970
 161044,Webmaster,Sci-Fi,1998
@@ -9412,7 +9413,7 @@ movieId,title,genres,year
 165343,The Rocky Horror Picture Show: Let's Do the Time Warp Again,Comedy|Horror|Sci-Fi|Thriller,2016
 165347,Jack Reacher: Never Go Back,Action|Crime|Drama|Mystery|Thriller,2016
 165483,Joe Rogan: Triggered,Comedy,2016
-165489,Ethel & Ernest,(no genres listed),2016
+165489,Ethel & Ernest,Animation|Drama,2016
 165529,Flowers for Algernon,Drama,2000
 165549,Manchester by the Sea,Drama,2016
 165551,Lion,Drama,2016
@@ -9425,7 +9426,7 @@ movieId,title,genres,year
 165959,Alesha Popovich and Tugarin the Dragon,Animation|Comedy|Drama,2004
 165969,HyperNormalisation,Documentary,2016
 166015,The African Doctor,Comedy|Drama,2016
-166024,Whiplash,(no genres listed),2013
+166024,Whiplash,Drama|Music,2013
 166183,Junior and Karlson,Adventure|Animation|Children,1968
 166203,Sapphire Blue,Adventure|Children|Fantasy|Sci-Fi,2014
 166291,A Silent Voice,Animation|Drama|Romance,2016
@@ -9447,7 +9448,7 @@ movieId,title,genres,year
 167370,Assassin's Creed,Action|Adventure|Sci-Fi,2016
 167380,A Dog's Purpose,Comedy|Drama,2017
 167538,Microwave Massacre,Horror,1983
-167570,The OA,(no genres listed),2016
+167570,The OA,Drama|Mystery|Sci-Fi,2016
 167634,Fist Fight,Comedy,2017
 167706,Shakespeare Behind Bars,Documentary,2005
 167732,A Street Cat Named Bob,Comedy|Drama,2016
@@ -9477,7 +9478,7 @@ movieId,title,genres,year
 168632,Bill Burr: Walk Your Way Out,Comedy,2017
 168712,Fifty Shades Darker,Drama|Romance,2017
 168846,Neal Brennan: 3 Mics,Comedy,2017
-169034,Lemonade,(no genres listed),2016
+169034,Lemonade,Drama,2016
 169180,American Fable,Thriller,2017
 169670,The Void,Horror,2016
 169904,Guyver: Dark Hero,Sci-Fi,1994
@@ -9513,18 +9514,18 @@ movieId,title,genres,year
 171011,Planet Earth II,Documentary,2016
 171023,The Hero,Drama,2017
 171251,"Nobody Speak: Hulk Hogan, Gawker and Trials of a Free Press",Documentary,2017
-171495,Cosmos,(no genres listed),2014
-171631,Maria Bamford: Old Baby,(no genres listed),2017
+171495,Cosmos,Documentary,2014
+171631,Maria Bamford: Old Baby,Comedy,2017
 171695,Robin Williams: Live on Broadway,Comedy,2002
 171701,The Death of Louis XIV,Drama,2016
-171749,Death Note: Desu nôto (2006–2007),(no genres listed),2006
+171749,Death Note: Desu nôto (2006–2007),Crime|Mystery|Thriller,2006
 171751,Munna bhai M.B.B.S.,Comedy,2003
 171759,The Beguiled,Drama|Thriller|Western,2017
 171763,Baby Driver,Action|Crime|Thriller,2017
 171765,Okja,Action|Adventure|Drama|Sci-Fi,2017
 171811,Embassy,Comedy|Sci-Fi|War,2013
 171867,Rough Night,Comedy|Drama,2017
-171891,Generation Iron 2,(no genres listed),2017
+171891,Generation Iron 2,Documentary,2017
 171917,Mystère à la Tour Eiffel,Drama|Mystery|Thriller,2015
 172013,Stefan Zweig: Farewell to Europe,Drama,2016
 172215,Saved by the Bell: Hawaiian Style,Comedy,1992
@@ -9533,14 +9534,14 @@ movieId,title,genres,year
 172253,The Night Before,Comedy,1988
 172321,Late Night with Conan O'Brien: The Best of Triumph the Insult Comic Dog,Comedy,2004
 172461,Get Me Roger Stone,Documentary,2017
-172497,T2 3-D: Battle Across Time,(no genres listed),1996
+172497,T2 3-D: Battle Across Time,Action|Sci-Fi,1996
 172547,Despicable Me 3,Adventure|Animation|Children|Comedy,2017
 172577,Last Year's Snow Was Falling,Animation|Children|Comedy|Fantasy,1983
 172583,Investigation Held by Kolobki,Animation,1986
 172585,Karlson Returns,Adventure|Animation|Children,1970
 172587,Vacations in Prostokvashino,Animation,1980
 172589,Winter in Prostokvashino,Animation,1984
-172591,The Godfather Trilogy: 1972-1990,(no genres listed),1992
+172591,The Godfather Trilogy: 1972-1990,Crime|Drama,1992
 172637,Priklyucheniya Kapitana Vrungelya,Action|Adventure|Animation|Comedy,1979
 172705,Tickling Giants,Documentary,2017
 172793,Vovka in the Kingdom of Far Far Away,Adventure|Animation|Children|Fantasy,1965
@@ -9561,7 +9562,7 @@ movieId,title,genres,year
 173317,Shadow World,Documentary,2016
 173351,Wow! A Talking Fish!,Animation|Children|Comedy|Fantasy,1983
 173355,Travels of an Ant,Animation,1983
-173535,The Adventures of Sherlock Holmes and Doctor Watson: The Hunt for the Tiger,(no genres listed),1980
+173535,The Adventures of Sherlock Holmes and Doctor Watson: The Hunt for the Tiger,Mystery|Crime,1980
 173619,Fugitives,Comedy|Crime,1986
 173751,Tiger Raid,Thriller,2016
 173873,Gulliver's Travels,Adventure|Children|Fantasy,1996
@@ -9572,7 +9573,7 @@ movieId,title,genres,year
 174053,Black Mirror: White Christmas,Drama|Horror|Mystery|Sci-Fi|Thriller,2014
 174055,Dunkirk,Action|Drama|Thriller|War,2017
 174141,Belladonna of Sadness,Animation|Drama|Fantasy,1973
-174403,The Putin Interviews,(no genres listed),2017
+174403,The Putin Interviews,Documentary,2017
 174479,Unedited Footage of a Bear,Horror|Thriller,2014
 174551,Obsession,Comedy,1965
 174681,"Oh, Hello: On Broadway",Comedy,2017
@@ -9610,7 +9611,7 @@ movieId,title,genres,year
 176419,Mother!,Drama|Horror|Mystery|Thriller,2017
 176423,Icarus,Documentary,2017
 176579,Cage Dive,Drama|Horror|Thriller,2017
-176601,Black Mirror,(no genres listed),2011
+176601,Black Mirror,Drama|Sci-Fi|Thriller,2011
 176621,Boniface's Holiday,Animation|Children|Comedy|Romance,1965
 176751,American Made,Crime|Thriller,2017
 176805,Little Boxes,Comedy|Drama,2017
@@ -9660,15 +9661,15 @@ movieId,title,genres,year
 181065,Jack Whitehall: At Large,Comedy,2017
 181139,Lynne Koplitz: Hormonal Beast,Comedy,2017
 181315,Phantom Thread,Drama|Romance,2017
-181413,Too Funny to Fail: The Life and Death of The Dana Carvey Show,(no genres listed),2017
+181413,Too Funny to Fail: The Life and Death of The Dana Carvey Show,Documentary,2017
 181659,Craig Ferguson: Tickle Fight,Comedy,2017
-181719,Serving in Silence: The Margarethe Cammermeyer Story,(no genres listed),1995
+181719,Serving in Silence: The Margarethe Cammermeyer Story,Drama,1995
 182293,Hare-um Scare-um,Animation|Children|Comedy,1939
 182297,Porky in Wackyland,Animation|Comedy|Fantasy,1938
 182299,Porky's Hare Hunt,Animation|Children|Comedy,1938
 182639,The Second Renaissance Part II,Animation|Sci-Fi,2003
 182715,Annihilation,Adventure|Mystery|Sci-Fi|Thriller,2018
-182727,A Christmas Story Live!,(no genres listed),2017
+182727,A Christmas Story Live!,Comedy|Musical,2017
 182731,Pixel Perfect,Children|Comedy|Sci-Fi,2004
 182749,Judd Apatow: The Return,Comedy,2017
 182793,The Purple Sea,Drama,2009
